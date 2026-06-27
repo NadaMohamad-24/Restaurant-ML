@@ -116,6 +116,22 @@ Restaurant-ML/
 ```
 
 ---
+## Results
+
+### Rating Distribution
+![Rating Distribution](rating_distribution.png)
+
+### Votes vs Rating
+![Votes vs Rating](votes_vs_rating.png)
+
+### Rating Categories
+![Rating Categories](rating_categories.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Model Comparison
+![Model Comparison](model_comparison.png)
 
 ## 👩‍💻 Author
 
